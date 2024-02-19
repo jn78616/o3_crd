@@ -27,7 +27,6 @@ library(multcomp) # for pairwise comparison letter display
 
 ```{r data import}
 crd_df = read_csv("../Data/wheat_nk_balkh.csv")
-
 crd_df
 ```
 
